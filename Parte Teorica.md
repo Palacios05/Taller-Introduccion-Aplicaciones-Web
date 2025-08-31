@@ -134,3 +134,38 @@ Porque hace que el código sea:
 - Reduce **errores** al recordar su propósito.  
 
 ---
+
+## 11. ¿Qué es una variable de entorno y por qué son importantes?
+Son valores configurados fuera del código (ejemplo: claves, rutas, puertos).  
+Importancia:  
+- Permiten **configurar sin modificar el código**.  
+- Aumentan la **seguridad** al no exponer información sensible.  
+- Hacen el software **más portable** entre entornos (dev, test, producción).  
+
+---
+
+## 12. ¿Qué son las herramientas de desarrollo de Chrome y cómo se accede a ellas?
+Son un conjunto de utilidades para inspeccionar, depurar y optimizar páginas web.  
+Se accede con **F12** o clic derecho → **Inspeccionar**.  
+
+---
+
+## 13. ¿Qué se puede hacer en el panel "Elements"?
+- Ver la **estructura HTML y CSS aplicado**.  
+- Modificar código en vivo.  
+- Probar estilos y depurar errores visuales.  
+
+---
+
+## 14. ¿Cómo se utiliza el panel "Console" y para qué es útil?
+- Permite ejecutar **comandos JavaScript** directamente.  
+- Muestra **mensajes, errores y logs** del código.  
+- Útil para **depuración rápida** y pruebas interactivas.  
+
+---
+
+## 15. ¿Qué información se obtiene del panel "Network"?
+- Archivos que carga la página (HTML, CSS, JS, imágenes).  
+- Tiempo de carga y rendimiento.  
+- Estado de las peticiones (200, 404, etc.).  
+Es importante para **optimizar velocidad** y **detectar fallos en recursos**.
