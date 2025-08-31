@@ -88,3 +88,49 @@ En CSS, una propiedad es una característica que se puede definir para un elemen
 
 - **position:** Define el tipo de posicionamiento (static, relative, absolute, fixed).  
   Ejemplo: `position: relative;`
+
+## 6. ¿Qué es un selector en CSS y cuáles tipos existen?
+Un **selector** en CSS es la forma de indicar a qué elementos HTML se aplicarán los estilos.  
+**Tipos principales:**
+- **Universal (`*`)**: selecciona todos los elementos.  
+- **De tipo (`p`, `div`)**: selecciona por nombre de etiqueta.  
+- **De clase (`.clase`)**: selecciona por atributo `class`.  
+- **De ID (`#id`)**: selecciona por atributo `id`.  
+- **De atributo (`[attr]`)**: selecciona según atributos.  
+- **Combinadores (`div p`, `div > p`)**: selecciona en relación jerárquica.  
+- **Pseudoclases (`:hover`) y pseudoelementos (`::before`)**.  
+
+---
+
+## 7. ¿Qué es JavaScript y cómo añade la interactividad a las páginas web?
+**JavaScript** es un lenguaje de programación que se ejecuta en el navegador.  
+Permite **manipular el DOM**, responder a **eventos del usuario** (clics, teclas, etc.) y actualizar el contenido sin recargar la página, logrando interactividad dinámica.  
+
+---
+
+## 8. ¿Cuáles son los tipos de datos primitivos en JavaScript?
+- **String**: texto (`"Hola"`)  
+- **Number**: números (`10`, `3.5`)  
+- **Boolean**: verdadero o falso (`true`, `false`)  
+- **Null**: ausencia de valor intencional  
+- **Undefined**: valor no asignado  
+- **BigInt**: números muy grandes  
+- **Symbol**: identificadores únicos  
+
+---
+
+## 9. ¿Cómo funcionan las estructuras de control de flujo en JavaScript?
+- **if / else**: ejecutan bloques según condición.  
+- **switch**: evalúa múltiples casos posibles.  
+- **for / while / do-while**: repiten código hasta cumplir una condición.  
+Se usan para controlar la **lógica y decisiones** en el programa.  
+
+---
+
+## 10. ¿Por qué es importante usar nombres significativos para variables y métodos?
+Porque hace que el código sea:  
+- **Más legible y entendible** para otros desarrolladores.  
+- **Más fácil de mantener** y depurar.  
+- Reduce **errores** al recordar su propósito.  
+
+---
